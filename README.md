@@ -1,0 +1,1 @@
+[![Состояние сборки](https://ci.appveyor.com/api/projects/status/n1ph5a0d5w9gy3om?svg=true)](https://ci.appveyor.com/project/Grafski/task-20)
